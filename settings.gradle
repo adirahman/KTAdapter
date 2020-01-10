@@ -1,0 +1,2 @@
+include ':app', ':ktadapter'
+rootProject.name='KejarTayangAdapter'
